@@ -1,0 +1,18 @@
+FSM:AuthorizationFSM
+Initial:Default
+{
+    Default {
+        Card - checkAuth
+        Master Auth -
+    }
+
+    Auth <beginAuth {
+        Card Default authCard
+        Master Deauth -
+    }
+
+    Deauth <beginDeauth {
+        Card Default deauthCard
+        Master Default cancel
+    }
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rfidtest.iml" filepath="$PROJECT_DIR$/.idea/modules/rfidtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rfidtest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rfidtest_main.iml" group="rfidtest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rfidtest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rfidtest_test.iml" group="rfidtest" />
+    </modules>
+  </component>
+</project>
